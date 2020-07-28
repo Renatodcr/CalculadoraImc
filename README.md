@@ -1,3 +1,3 @@
-![20200629_120208](https://user-images.githubusercontent.com/57547112/86025179-4e07f000-ba04-11ea-888d-c5646f2cc26e.jpg)
+![Screenshot_20200728-133523_Expo](https://user-images.githubusercontent.com/57547112/88695214-f37fb380-d0d7-11ea-9410-3cedbd49bfd4.jpg)
 
 App para Calcular o Imc, foi utilizado a tecnologia React Native.
